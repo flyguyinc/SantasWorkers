@@ -1,0 +1,12 @@
+{
+	"folders": [],
+	"settings": {
+		"java.completion.filteredTypes": [
+			"com.sun.*",
+			"sun.*",
+			"jdk.*",
+			"org.graalvm.*",
+			"io.micrometer.shaded.*"
+		]
+	}
+}
